@@ -1,1 +1,1 @@
-# codeigniter4-folder-setup
+# codeigniter4-wizard-setup
